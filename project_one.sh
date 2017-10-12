@@ -1,5 +1,3 @@
-//created by Jose Ordaz
-//9-29-2017
 //file name project_one.sh
 //run this shell script to compile the file project_one.c written as c code and run the program
 //run by using ./project_one.sh
